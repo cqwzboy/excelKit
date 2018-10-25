@@ -6,7 +6,7 @@ Excel导入/导出通用工具
     <dependency>  
          <groupId>com.efficient</groupId>  
          <artifactId>excelKit</artifactId>  
-         <version>${efficient.excelUtil.version}</version>  
+         <version>1.0</version>  
      </dependency>
      
      仓库地址：http://47.106.201.17:8081/nexus/content/groups/public
